@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\bin\Debug\net6.0\Mail_Valiadate.exe
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\bin\Debug\net6.0\Mail_Valiadate.deps.json
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\bin\Debug\net6.0\Mail_Valiadate.runtimeconfig.json
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\bin\Debug\net6.0\Mail_Valiadate.dll
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\bin\Debug\net6.0\Mail_Valiadate.pdb
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\obj\Debug\net6.0\Mail_Valiadate.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\obj\Debug\net6.0\Mail_Valiadate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\obj\Debug\net6.0\Mail_Valiadate.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\obj\Debug\net6.0\Mail_Valiadate.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\obj\Debug\net6.0\Mail_Valiadate.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\obj\Debug\net6.0\Mail_Valiadate.dll
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\obj\Debug\net6.0\refint\Mail_Valiadate.dll
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\obj\Debug\net6.0\Mail_Valiadate.pdb
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\obj\Debug\net6.0\Mail_Valiadate.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C# Tasks\mail valiadate\Mail_Valiadate\Mail_Valiadate\obj\Debug\net6.0\ref\Mail_Valiadate.dll
