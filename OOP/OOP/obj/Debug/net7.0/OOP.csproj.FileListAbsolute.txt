@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\bin\Debug\net7.0\OOP.exe
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\bin\Debug\net7.0\OOP.deps.json
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\bin\Debug\net7.0\OOP.runtimeconfig.json
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\bin\Debug\net7.0\OOP.dll
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\bin\Debug\net7.0\OOP.pdb
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\obj\Debug\net7.0\OOP.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\obj\Debug\net7.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\obj\Debug\net7.0\OOP.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\obj\Debug\net7.0\OOP.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\obj\Debug\net7.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\obj\Debug\net7.0\OOP.dll
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\obj\Debug\net7.0\refint\OOP.dll
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\obj\Debug\net7.0\OOP.pdb
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\obj\Debug\net7.0\OOP.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C# Tasks\OOP\OOP\obj\Debug\net7.0\ref\OOP.dll

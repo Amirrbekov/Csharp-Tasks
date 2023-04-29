@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\bin\Debug\net7.0\LibaryTask.exe
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\bin\Debug\net7.0\LibaryTask.deps.json
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\bin\Debug\net7.0\LibaryTask.runtimeconfig.json
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\bin\Debug\net7.0\LibaryTask.dll
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\bin\Debug\net7.0\LibaryTask.pdb
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\obj\Debug\net7.0\LibaryTask.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\obj\Debug\net7.0\LibaryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\obj\Debug\net7.0\LibaryTask.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\obj\Debug\net7.0\LibaryTask.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\obj\Debug\net7.0\LibaryTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\obj\Debug\net7.0\LibaryTask.dll
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\obj\Debug\net7.0\refint\LibaryTask.dll
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\obj\Debug\net7.0\LibaryTask.pdb
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\obj\Debug\net7.0\LibaryTask.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C# Tasks\LibaryTask\LibaryTask\obj\Debug\net7.0\ref\LibaryTask.dll
