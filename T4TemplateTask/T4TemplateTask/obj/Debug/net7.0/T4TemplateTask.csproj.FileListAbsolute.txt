@@ -1,5 +1,0 @@
-C:\Users\Hp\Desktop\C# Tasks\T4TemplateTask\T4TemplateTask\obj\Debug\net7.0\T4TemplateTask.csproj.AssemblyReference.cache
-C:\Users\Hp\Desktop\C# Tasks\T4TemplateTask\T4TemplateTask\obj\Debug\net7.0\T4TemplateTask.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hp\Desktop\C# Tasks\T4TemplateTask\T4TemplateTask\obj\Debug\net7.0\T4TemplateTask.AssemblyInfoInputs.cache
-C:\Users\Hp\Desktop\C# Tasks\T4TemplateTask\T4TemplateTask\obj\Debug\net7.0\T4TemplateTask.AssemblyInfo.cs
-C:\Users\Hp\Desktop\C# Tasks\T4TemplateTask\T4TemplateTask\obj\Debug\net7.0\T4TemplateTask.csproj.CoreCompileInputs.cache

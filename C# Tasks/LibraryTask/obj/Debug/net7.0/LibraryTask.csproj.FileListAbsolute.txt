@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\bin\Debug\net7.0\LibraryTask.exe
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\bin\Debug\net7.0\LibraryTask.deps.json
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\bin\Debug\net7.0\LibraryTask.runtimeconfig.json
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\bin\Debug\net7.0\LibraryTask.dll
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\bin\Debug\net7.0\LibraryTask.pdb
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\obj\Debug\net7.0\LibraryTask.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\obj\Debug\net7.0\LibraryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\obj\Debug\net7.0\LibraryTask.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\obj\Debug\net7.0\LibraryTask.AssemblyInfo.cs
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\obj\Debug\net7.0\LibraryTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\obj\Debug\net7.0\LibraryTask.dll
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\obj\Debug\net7.0\refint\LibraryTask.dll
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\obj\Debug\net7.0\LibraryTask.pdb
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\obj\Debug\net7.0\LibraryTask.genruntimeconfig.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\LibraryTask\obj\Debug\net7.0\ref\LibraryTask.dll

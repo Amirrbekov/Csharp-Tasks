@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\bin\Debug\net7.0\EnumDisplay.exe
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\bin\Debug\net7.0\EnumDisplay.deps.json
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\bin\Debug\net7.0\EnumDisplay.runtimeconfig.json
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\bin\Debug\net7.0\EnumDisplay.dll
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\bin\Debug\net7.0\EnumDisplay.pdb
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\obj\Debug\net7.0\EnumDisplay.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\obj\Debug\net7.0\EnumDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\obj\Debug\net7.0\EnumDisplay.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\obj\Debug\net7.0\EnumDisplay.AssemblyInfo.cs
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\obj\Debug\net7.0\EnumDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\obj\Debug\net7.0\EnumDisplay.dll
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\obj\Debug\net7.0\refint\EnumDisplay.dll
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\obj\Debug\net7.0\EnumDisplay.pdb
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\obj\Debug\net7.0\EnumDisplay.genruntimeconfig.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\EnumDisplay\obj\Debug\net7.0\ref\EnumDisplay.dll

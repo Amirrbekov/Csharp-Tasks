@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rLofC3czqf/DIOj2FmPsLLj6MAGhUcKsKseKVDZc8q6twuCnXN39VY6NSnfWy39gDaeiBwylGWcblZqnxUziMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\RNET102\\C# Tasks\\SpectreConsole\\SpectreConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
