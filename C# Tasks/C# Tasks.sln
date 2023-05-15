@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelReportingProject", "Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumDisplay", "EnumDisplay\EnumDisplay.csproj", "{C3DBFAE0-4D92-47D1-A560-1F7A7FAC1FE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectreConsole", "SpectreConsole\SpectreConsole.csproj", "{90ACC2F8-2F74-4EEB-8866-CBE1D7EA8B4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpectreConsole", "SpectreConsole\SpectreConsole.csproj", "{90ACC2F8-2F74-4EEB-8866-CBE1D7EA8B4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VCard", "VCard\VCard.csproj", "{07E6AC62-74AF-4DEB-8CE8-5B873FA1B52C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{90ACC2F8-2F74-4EEB-8866-CBE1D7EA8B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90ACC2F8-2F74-4EEB-8866-CBE1D7EA8B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90ACC2F8-2F74-4EEB-8866-CBE1D7EA8B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E6AC62-74AF-4DEB-8CE8-5B873FA1B52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E6AC62-74AF-4DEB-8CE8-5B873FA1B52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E6AC62-74AF-4DEB-8CE8-5B873FA1B52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E6AC62-74AF-4DEB-8CE8-5B873FA1B52C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
